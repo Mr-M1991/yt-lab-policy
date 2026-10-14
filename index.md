@@ -7,7 +7,7 @@ and uploads them to YouTube channels owned by the application's operator (The Da
 It is not offered to the public and has no users other than its operator.
 
 **Data accessed.** Through the YouTube Data API the application uses the scopes `youtube.upload` (to upload videos
-to the operator's own channels and to change their privacy status) and `youtube.readonly` (to read the operator's
+to the operator's own channels), `youtube.force-ssl` (to change the privacy status of those videos) and `youtube.readonly` (to read the operator's
 own channel id and, later, the statistics of the operator's own videos). It does not access any other Google user
 data, comments, subscribers or viewer information.
 
