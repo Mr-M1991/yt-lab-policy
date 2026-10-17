@@ -24,3 +24,5 @@ https://myaccount.google.com/permissions; local tokens can be deleted by removin
 
 **Google API Services User Data Policy.** The application's use of information received from Google APIs adheres
 to the Google API Services User Data Policy, including the Limited Use requirements.
+
+**Terms of Service.** See the [Terms of Service](./terms.html).
